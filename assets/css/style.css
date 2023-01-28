@@ -543,6 +543,9 @@ img {
     width: 75%;
 }
 
+.skills__swift{
+    width: 30%;
+}
 .skills__low{
     width: 10%;
 }
